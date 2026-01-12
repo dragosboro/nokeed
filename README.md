@@ -4,7 +4,7 @@
 
 ### Screenshot, Annotate, Share
 
-[![Version](https://img.shields.io/badge/version-v0.4.0-blue.svg)](https://github.com/dragosboro/nokeed)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/dragosboro/nokeed)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://nokeed.com)
 
@@ -20,6 +20,7 @@ The fastest way to capture and share screenshots from your browser.
 
 | Version | Description |
 |---------|-------------|
+| **1.0.0** | Stable release v1.0.0 - Ready for Chrome Web Store submission |
 | **0.4.0** | Added social sharing and download functionality |
 | **0.3.1** | Improved mobile responsiveness on viewer page |
 | **0.3.0** | Added cloud upload and shareable link generation |
