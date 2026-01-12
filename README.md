@@ -4,7 +4,7 @@
 
 ### Screenshot, Annotate, Share
 
-[![Version](https://img.shields.io/badge/version-v0.1.3-blue.svg)](https://github.com/dragosboro/nokeed)
+[![Version](https://img.shields.io/badge/version-v0.2.0-blue.svg)](https://github.com/dragosboro/nokeed)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://nokeed.com)
 
@@ -20,6 +20,7 @@ The fastest way to capture and share screenshots from your browser.
 
 | Version | Description |
 |---------|-------------|
+| **0.2.0** | Implemented screenshot capture and annotation tools |
 | **0.1.3** | Fixed upload API endpoint validation |
 | **0.1.2** | Added configuration files and database schema |
 | **0.1.1** | Initial project setup and file structure |
