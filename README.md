@@ -1,16 +1,16 @@
 <div align="center">
 
-# 🖼️ Nokeed
+#  Snapy
 
 ### Screenshot, Annotate, Share
 
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/dragosboro/nokeed)
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](https://github.com/dragosboro/snapy)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://nokeed.com)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://snapy.cc)
 
 The fastest way to capture and share screenshots from your browser.
 
-[Website](https://nokeed.com) • [Download](https://nokeed.com) • [Support](#support)
+[Website](https://snapy.cc) • [Download](https://snapy.cc) • [Support](#support)
 
 </div>
 
@@ -20,6 +20,7 @@ The fastest way to capture and share screenshots from your browser.
 
 | Version | Description |
 |---------|-------------|
+| **1.1.0** | rebranding from nokeed to Snapy |
 | **1.0.0** | Stable release v1.0.0 - Ready for Chrome Web Store submission |
 | **0.4.0** | Added social sharing and download functionality |
 | **0.3.1** | Improved mobile responsiveness on viewer page |
@@ -36,7 +37,7 @@ The fastest way to capture and share screenshots from your browser.
 
 ### Pending
 
-- [ ] **Chrome Web Store Listing** — Publish the Nokeed extension to the Chrome Web Store for public access
+- [ ] **Chrome Web Store Listing** — Publish the Snapy extension to the Chrome Web Store for public access
 - [ ] **Full Page Screenshot** — Implement full page capture functionality beyond the visible viewport
 - [ ] **Advanced Annotation Tools** — Expand the annotation toolkit with additional shapes, text styles, and drawing options
 - [ ] **Video Recording** — Add screen recording capabilities for capturing video walkthroughs and tutorials
@@ -49,16 +50,16 @@ _No completed items yet_
 
 ## 💬 Support
 
-Nokeed is free, open-source, and built with care for better communication.
+Snapy is free, open-source, and built with care for better communication.
 
-- 🌐 **Website:** [nokeed.com](https://nokeed.com)
-- 📧 **Contact:** [contact@nokeed.com](mailto:contact@nokeed.com)
-- 🎁 **Support the Project:** [nokeed.com/sponsors](https://nokeed.com/sponsors)
+- 🌐 **Website:** [snapy.cc](https://snapy.cc)
+- 📧 **Contact:** [contact@snapy.cc](mailto:contact@snapy.cc)
+- 🎁 **Support the Project:** [snapy.cc/sponsors](https://snapy.cc/sponsors)
 
 ---
 
 <div align="center">
 
-Made with ❤️ by [Dragos Boroianu](https://nokeed.com)
+Made with ☕️ by [Dragos](https://snapy.cc)
 
 </div>
